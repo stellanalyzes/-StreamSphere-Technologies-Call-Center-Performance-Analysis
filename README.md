@@ -165,7 +165,7 @@ The Power BI report (`Streamsphere_Technologies.pbix`) has three navigable pages
 - Calls by topic
 - Customer satisfaction distribution (Satisfied 4 to 5, Neutral 3, Dissatisfied 1 to 2)
 
-![Executive Overview](images/01_executive_overview.png)
+![Executive Overview](Images/Executive_overview.png)
 
 ### 2️⃣ Agent Performance Analysis
 *Slicers: Year, Agent*
@@ -175,7 +175,7 @@ The Power BI report (`Streamsphere_Technologies.pbix`) has three navigable pages
 - Speed vs. resolution performance (scatter with quadrants)
 - Speed of answer vs. customer satisfaction (scatter with average reference lines)
 
-![Agent Performance](images/02_agent_performance.png)
+![Agent Performance](Images/Agent_performance.png)
 
 ### 3️⃣ Customer Issue Resolution
 *Slicers: Year, Topic*
@@ -186,7 +186,7 @@ The Power BI report (`Streamsphere_Technologies.pbix`) has three navigable pages
 - CSAT by topic
 - Topic resolution rate vs. CSAT (scatter)
 
-![Customer Issue Resolution](images/03_customer_issue_resolution.png)
+![Customer Issue Resolution](Images/Customer_issue.png)
 
 ---
 
